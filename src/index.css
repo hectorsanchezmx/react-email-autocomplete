@@ -25,4 +25,7 @@ code {
   padding-top: 4px;
   padding-bottom: 5px;
   margin: 0;
+  background: #ededed;
+  border-color: #ededed;
+  border-radius: 5px;
 }

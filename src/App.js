@@ -17,7 +17,7 @@ function App() {
           }}
         >
           <Row justify="center">
-            <Col span={8}>
+            <Col span={9}>
               <Form/>
             </Col>
           </Row>
